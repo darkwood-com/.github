@@ -22,3 +22,21 @@ Keys skills :
 - Dev stack : [Git](https://git-scm.com), [Docker](https://www.docker.com)
 - Quality : Continus integration, unit testing, code review
 - Agility methods : Scrum, Kanban
+
+## Blog
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+## Links
+
+<p align="center">
+  <a href="https://darkwood.fr"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="darkwood"/></a>
+  <a href="mailto:mathieu@darkwood.fr"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
+  <a href="https://twitter.com/darkwood_fr"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
+  <a href="https://www.linkedin.com/company/darkwood-fr"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+</p>
+
+<p  align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=darkwood-fr.github" alt="visitor badge"/>
+</p>
