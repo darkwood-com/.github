@@ -8,7 +8,7 @@
 
 At Darkwood we like Computer 💻 and Internet 🌎 that bring knowledge 💡 and creation 🚀 for relatively no cost 💶 or energy ⚡️.
 
-What we can contribute is about exploring Tiny Design Mechanics ⚙️ as Processing, Generating, Rendering, Filtering, Solving things that are more relevant to Web and Games.
+What we can contribute is about exploring Tiny Design Mechanics ⚙️ as Processing, Generating, Rendering, Filtering, Solving things that are more relevant to Web 🌐, Music 🎛 and Games 🎮.
 
 We can see how working together and bring our expertise on [Symfony](https://symfony.com) for back-end, [React.js](https://reactjs.org) for front-end and [n8n](https://n8n.io) for automation.  
 We are sensitive to the quality of the code, the use of good practices and to its maintainability.
