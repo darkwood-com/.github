@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/darkwood-fr">
+  <a href="https://darkwood.fr">
     <img src="assets/logo.png" width="auto" height="128px" alt="Darkwood">
   </a>
 </p>
@@ -14,12 +14,12 @@ We can see how working together and bring our expertise on [Symfony](https://sym
 We are sensitive to the quality of the code, the use of good practices and to its maintainability.
 
 Keys skills :
-- Backend : [PHP](https://www.php.net), [Symfony](https://symfony.com), [API-Platform](https://api-platform.com)
-- Frontend : [React.js](https://reactjs.org), [Typescript](https://www.typescriptlang.org), [Bootstrap](https://getbootstrap.com)
-- Automation : [n8n](https://n8n.io)
+- Backend : [PHP](https://www.php.net), [Symfony](https://symfony.com), [API-Platform](https://api-platform.com), [Node.js](https://nodejs.org/)
+- Frontend : [Typescript](https://www.typescriptlang.org), [React.js](https://fr.reactjs.org), [Bootstrap](https://getbootstrap.com), [Next.js](https://nextjs.org)
+- Automation : [Flow](https://github.com/darkwood-fr/flow), [Uniflow](https://uniflow.io), [n8n](https://n8n.io)
 - CMS : [Sulu](https://sulu.io)
-- Ecommerce : [Sylius](https://sylius.com), [Stripe](https://stripe.com)
 - Dev stack : [Git](https://git-scm.com), [Docker](https://www.docker.com)
+- Usages : Designs patterns, DDD, TDD, Architecture hexagonal, Clean architecture.
 - Quality : Continus integration, unit testing, code review
 - Agility methods : Scrum, Kanban
 
