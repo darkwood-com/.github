@@ -16,7 +16,7 @@ We are sensitive to the quality of the code, the use of good practices and to it
 Keys skills :
 - Backend : [PHP](https://www.php.net), [Symfony](https://symfony.com), [API-Platform](https://api-platform.com)
 - Frontend : [React.js](https://reactjs.org), [Typescript](https://www.typescriptlang.org), [Bootstrap](https://getbootstrap.com)
-- Automation : [flow](https://github.com/darkwood-fr/flow)
+- Automation : [Flow](https://github.com/darkwood-fr/flow)
 - CMS : [Sulu](https://sulu.io)
 - Ecommerce : [Sylius](https://sylius.com), [Stripe](https://stripe.com)
 - Dev stack : [Git](https://git-scm.com), [Docker](https://www.docker.com)
