@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/darkwood-fr">
-    <img src="assets/logo.png" width="auto" height="128px" alt="Darkwood">
+    <img src="/assets/logo.png" width="auto" height="128px" alt="Darkwood">
   </a>
 </p>
 
