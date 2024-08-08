@@ -26,11 +26,11 @@ Keys skills :
 ## Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [NoCode avec le projet Capsule Corp](https://blog.darkwood.fr/article/nocode-avec-le-projet-capsule-corp)
-- [Utiliser VSCode à distance](https://blog.darkwood.fr/article/utiliser-vscode-a-distance)
-- [Crypto Tracker](https://blog.darkwood.fr/article/crypto-tracker)
-- [Self-host n8n with AWS Lightsail, pm2 and caddy server](https://blog.darkwood.fr/article/self-host-n8n-with-aws-lightsail-pm2-and-caddy-server)
-- [Vie privée Numérique](https://blog.darkwood.fr/article/vie-privee-numerique)
+- [Y-Combinator en PHP](https://blog.darkwood.com/article/y-combinator-en-php)
+- [Changer de gestionnaire de mot de passe](https://blog.darkwood.com/article/changer-de-gestionnaire-de-mot-de-passe)
+- [NoCode avec le projet Capsule Corp](https://blog.darkwood.com/article/nocode-avec-le-projet-capsule-corp)
+- [Utiliser VSCode à distance](https://blog.darkwood.com/article/utiliser-vscode-a-distance)
+- [Crypto Tracker](https://blog.darkwood.com/article/crypto-tracker)
 <!-- BLOG-POST-LIST:END -->
 
 ## Links
