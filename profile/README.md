@@ -26,11 +26,11 @@ Keys skills :
 ## Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Attention is all you need](https://blog.darkwood.com/article/attention-is-all-you-need)
 - [Création d’un Projet Symfony avec IA : Utilisation de DTO, Flow et RapidAPI](https://blog.darkwood.com/article/creation-dun-projet-symfony-avec-ia-utilisation-de-dto-flow-et-rapidapi)
 - [Automatise la création de vignettes Youtube](https://blog.darkwood.com/article/automatise-la-creation-de-vignettes-youtube)
 - [Wave function collapse](https://blog.darkwood.com/article/wave-function-collapse)
 - [Introduction à Flow](https://blog.darkwood.com/article/introduction-a-flow)
-- [J’ai comparé 38 outils d’automatisation : voici ce que vous devez savoir](https://blog.darkwood.com/article/jai-compare-38-outils-dautomatisation-voici-ce-que-vous-devez-savoir)
 <!-- BLOG-POST-LIST:END -->
 
 ## Links
