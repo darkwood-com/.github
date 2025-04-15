@@ -26,11 +26,11 @@ Keys skills :
 ## Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Darkwood v1.0.1 released](https://blog.darkwood.com/article/darkwood-v1-0-1-released)
 - [Transforming Your Voice into a Blog Post with GPT and Meteor](https://blog.darkwood.com/article/transforming-your-voice-into-a-blog-post-with-gpt-and-meteor)
 - [Darkwood 1.0.0 is Here](https://blog.darkwood.com/article/darkwood-1-0-0-is-here-1)
 - [FrankenPHP](https://uniflow.io/blog/2025-04-07-frankenphp)
 - [Coder comme un DJ, mixer comme un dev](https://blog.darkwood.com/article/coder-comme-un-dj-mixer-comme-un-dev)
-- [Create a Lambda Interpreter in PHP](https://blog.darkwood.com/article/create-a-lambda-interpreter-in-php)
 <!-- BLOG-POST-LIST:END -->
 
 ## Links
