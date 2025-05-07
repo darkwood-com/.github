@@ -26,11 +26,11 @@ Keys skills :
 ## Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [DJ Matyo Live](https://blog.darkwood.com/article/dj-matyo-live-3)
 - [Supercharge Your Job Search: Automate with MCP, Astra, Langflow and Arize](https://blog.darkwood.com/article/supercharge-your-job-search-automate-with-mcp-astra-langflow-and-arize)
 - [DJ Matyo Live](https://blog.darkwood.com/article/dj-matyo-live)
 - [Build a Game for the largest game dev competition in the world](https://blog.darkwood.com/article/build-a-game-for-the-largest-game-dev-competition-in-the-world)
 - [Ask codex](https://blog.darkwood.com/article/ask-codex)
-- [DJ Matyo Live repost tracks](https://blog.darkwood.com/article/dj-matyo-live-repost-tracks)
 <!-- BLOG-POST-LIST:END -->
 
 ## Links
