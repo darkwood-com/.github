@@ -26,7 +26,7 @@ Keys skills :
 ## Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [DJ Matyo Live special Eurovision 2025](https://blog.darkwood.com/article/dj-matyo-live-special-eurovision-2025)
+- [🇪🇺 DJ Matyo Live special Eurovision 2025 🌟](https://blog.darkwood.com/article/dj-matyo-live-special-eurovision-2025)
 - [Automatically Generate Custom Ghibli-Style YouTube Thumbnails with PHP and AI](https://blog.darkwood.com/article/automatically-generate-custom-ghibli-style-youtube-thumbnails-with-php-and-ai)
 - [DJ Matyo Live DJ Cotts selection](https://blog.darkwood.com/article/dj-matyo-live-dj-cotts-selection)
 - [Automating Gmail and Google Calendar with PHP Agents ?⚡](https://blog.darkwood.com/article/automating-gmail-and-google-calendar-with-php-agents)
