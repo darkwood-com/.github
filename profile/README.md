@@ -26,11 +26,11 @@ Keys skills :
 ## Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [🔨 API Platform Conference 2025: a look back at two intense days focused on the Symfony and PHP ecosystem](https://blog.darkwood.com/article/api-platform-conference-2025-a-look-back-at-two-intense-days-focused-on-the-symfony-and-php-ecosystem)
 - [✨ Meetup SQLI](https://blog.darkwood.com/article/meetup-sqli)
 - [🎨 Pipe Programming: Linearizing Graph Complexity](https://blog.darkwood.com/article/pipe-programming-linearizing-graph-complexity)
 - [🚀 Symfony AI Hackathon – My online experience](https://blog.darkwood.com/article/symfony-ai-hackathon-my-online-experience)
 - [🚀 Tech watch week 37](https://blog.darkwood.com/article/tech-watch-week-37)
-- [🎲 Rock-Paper-Scissors: A Minimal Model of Balance and Strategy](https://blog.darkwood.com/article/rock-paper-scissors-a-minimal-model-of-balance-and-strategy)
 <!-- BLOG-POST-LIST:END -->
 
 ## Links
