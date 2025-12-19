@@ -26,11 +26,11 @@ Keys skills :
 ## Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [⭐️ Meetup AFUP Paris Décembre 2025](https://blog.darkwood.com/article/meetup-afup-paris-decembre-2025)
 - [🏛️ Open Source Experience 2025: an ecosystem that is organizing itself, asserting itself and accelerating](https://blog.darkwood.com/article/open-source-experience-2025-an-ecosystem-that-is-organizing-itself-asserting-itself-and-accelerating)
 - [🚀 IA Pulse](https://blog.darkwood.com/article/ia-pulse)
 - [🧩 Meetup AFUP Paris – Novembre 2025](https://blog.darkwood.com/article/meetup-afup-paris-novembre-2025)
 - [🤖 AI Café Club #12: Creation, business, cinema… AI in all its forms at the Monnaie de Paris](https://blog.darkwood.com/article/ai-cafe-club-12-creation-business-cinema-ai-in-all-its-forms-at-the-monnaie-de-paris)
-- [✨ SyliusCon 2025: The Sylius ecosystem reaches full maturity](https://blog.darkwood.com/article/syliuscon-2025-the-sylius-ecosystem-reaches-full-maturity)
 <!-- BLOG-POST-LIST:END -->
 
 ## Links
