@@ -26,11 +26,11 @@ Keys skills :
 ## Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [🚀 Building a PHP MCP App to Publish Darkwood Articles](https://blog.darkwood.com/article/building-a-php-mcp-app-to-publish-darkwood-articles)
 - [🚀 I'm building a dictation engine in PHP (Flow + Symfony + Whisper.cpp)](https://blog.darkwood.com/article/i-m-building-a-dictation-engine-in-php-flow-symfony-whisper-cpp)
 - [⚔️ Discovering the Hearthstone Cataclysm expansion](https://blog.darkwood.com/article/discovering-the-hearthstone-cataclysm-expansion)
 - [🤖 Parallel AI Development with Cursor and Git Worktrees](https://blog.darkwood.com/article/parallel-ai-development-with-cursor-and-git-worktrees)
 - [🤖 Making Darkwood Agent-Ready](https://blog.darkwood.com/article/making-darkwood-agent-ready-2)
-- [🧑‍💻 Coder vs Vibe coder](https://blog.darkwood.com/article/coder-vs-vibe-coder)
 <!-- BLOG-POST-LIST:END -->
 
 ## Links
