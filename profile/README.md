@@ -26,11 +26,11 @@ Keys skills :
 ## Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [🤖 Darkwood Daily Update - 2026-05-20](https://blog.darkwood.com/article/darkwood-daily-update-2026-05-20)
 - [🤖 Darkwood Watch - 2026-05-19](https://blog.darkwood.com/article/darkwood-watch-2026-05-19)
 - [🤖 Darkwood Watch - 2026-05-18](https://blog.darkwood.com/article/darkwood-watch-2026-05-18)
 - [⬆️ Flowvox update: Symfony becomes a real-time voice agent platform](https://blog.darkwood.com/article/flowvox-update-symfony-becomes-a-real-time-voice-agent-platform)
 - [🤖 Darkwood Review - May 17, 2026](https://blog.darkwood.com/article/darkwood-review-may-17-2026)
-- [🤖 Darkwood Monitoring - 2026-05-16](https://blog.darkwood.com/article/darkwood-monitoring-2026-05-16)
 <!-- BLOG-POST-LIST:END -->
 
 ## Links
