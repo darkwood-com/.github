@@ -26,11 +26,11 @@ Keys skills :
 ## Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [🤖 Darkwood Insights - June 4, 2026](https://blog.darkwood.com/article/darkwood-insights-june-4-2026)
 - [🤖 Darkwood Watch - 2026-06-03](https://blog.darkwood.com/article/darkwood-watch-2026-06-03)
 - [💪 Here are my LLM talents](https://blog.darkwood.com/article/here-are-my-llm-talents)
 - [🤖 Darkwood Watch - 2026-06-02](https://blog.darkwood.com/article/darkwood-watch-2026-06-02)
 - [📍 A day in Rotterdam](https://blog.darkwood.com/article/a-day-in-rotterdam)
-- [🚀 Darkwood 8.0.13 released](https://blog.darkwood.com/article/darkwood-8-0-13-released)
 <!-- BLOG-POST-LIST:END -->
 
 ## Links
