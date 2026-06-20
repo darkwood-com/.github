@@ -26,11 +26,11 @@ Keys skills :
 ## Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [🤖 Darkwood Watch - 2026-06-19](https://blog.darkwood.com/article/darkwood-watch-2026-06-19)
 - [🌊 The vibe coding mirage - demo, product, or illusion (there is no fourth option)](https://blog.darkwood.com/article/the-vibe-coding-mirage-demo-product-or-illusion-there-is-no-fourth-option)
 - [🤖 Darkwood Watch - 2026-06-18](https://blog.darkwood.com/article/darkwood-watch-2026-06-18)
 - [🤖 Darkwood Watch - 2026-06-17](https://blog.darkwood.com/article/darkwood-watch-2026-06-17)
 - [🤖 Darkwood Watch - 2026-06-16](https://blog.darkwood.com/article/darkwood-watch-2026-06-16)
-- [🤖 Darkwood Watch - 2026-06-15](https://blog.darkwood.com/article/darkwood-watch-2026-06-15)
 <!-- BLOG-POST-LIST:END -->
 
 ## Links
