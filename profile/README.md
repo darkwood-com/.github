@@ -26,11 +26,11 @@ Keys skills :
 ## Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [💫 Bonzai Creator - Mini - Jules](https://blog.darkwood.com/article/bonzai-creator-mini-jules)
+- [🤖 Darkwood Watch - 2026-06-25](https://blog.darkwood.com/article/darkwood-watch-2026-06-25)
 - [💫 Bonzai Creator - matyo91](https://blog.darkwood.com/article/bonzai-creator-matyo91)
 - [🤖 Darkwood Watch - 2026-06-24](https://blog.darkwood.com/article/darkwood-watch-2026-06-24)
 - [💫 Bonzai Creator - Mini](https://blog.darkwood.com/article/darkwood-creator-mini-2026-06-23)
-- [🤖 Darkwood Watch - 2026-06-23](https://blog.darkwood.com/article/darkwood-watch-2026-06-23)
-- [🤖 Daily Digest: June 22, 2026](https://blog.darkwood.com/article/daily-digest-june-22-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ## Links
