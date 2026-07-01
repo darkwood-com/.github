@@ -26,11 +26,11 @@ Keys skills :
 ## Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [💫 Bonzai Creator - Niokoz](https://blog.darkwood.com/article/bonzai-creator-niokoz-1)
+- [🤖 Darkwood Watch - 2026-06-30](https://blog.darkwood.com/article/darkwood-watch-2026-06-30)
 - [💫 Bonzai Creator - Fabien WAGER-MENRI | Trading](https://blog.darkwood.com/article/bonzai-creator-fabien-wager-menri-trading)
 - [🤖 Darkwood Watch - 2026-06-29](https://blog.darkwood.com/article/darkwood-watch-2026-06-29)
 - [🚀 Darkwood-com v1.0.7 released](https://blog.darkwood.com/article/darkwood-com-v1-0-7-released)
-- [🚀 Darkwood v8.1.1 released](https://blog.darkwood.com/article/darkwood-v8-1-1-released)
-- [💫 Bonzai Creator - Niokoz](https://blog.darkwood.com/article/bonzai-creator-niokoz)
 <!-- BLOG-POST-LIST:END -->
 
 ## Links
