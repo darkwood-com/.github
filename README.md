@@ -26,11 +26,11 @@ Keys skills :
 ## Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [💫 YouTube Creator - Thariq Shihipar: AI Engineer: Field Guide to Fable](https://blog.darkwood.com/article/youtube-creator-thariq-shihipar-ai-engineer-field-guide-to-fable)
-- [💫 YouTube Creator - AFUP PHP: Keynote de clôture - Forum PHP 2025](https://blog.darkwood.com/article/youtube-creator-afup-php-keynote-de-cloture-forum-php-2025)
-- [💫 Reddit Creator - r/programming: How I achieved 3.7x less memory usage than Cursor by ripping out Electron](https://blog.darkwood.com/article/reddit-creator-r-programming-how-i-achieved-3-7x-less-memory-usage-than-cursor-by-ripping-out-electron)
-- [💫 arXiv Creator - stat.ML: What Does a Discrete Diffusion Model Learn?](https://blog.darkwood.com/article/arxiv-creator-stat-ml-what-does-a-discrete-diffusion-model-learn)
-- [💫 Hacker News Creator - GLM 5.2 and the coming AI margin collapse](https://blog.darkwood.com/article/hacker-news-creator-glm-5-2-and-the-coming-ai-margin-collapse)
+- [💫 Hacker News Creator - I think I have LLM burnout](https://blog.darkwood.com/article/hacker-news-creator-i-think-i-have-llm-burnout)
+- [💫 Reddit Creator - r/php: INTERNSHIP](https://blog.darkwood.com/article/reddit-creator-r-php-internship)
+- [💫 GitHub Creator - Laravel: laravel/framework: v12.63.0](https://blog.darkwood.com/article/github-creator-laravel-laravel-framework-v12-63-0)
+- [💫 YouTube Creator - GitHub: Sentry + GitHub Copilot: Let Agents Find and Fix Your Errors](https://blog.darkwood.com/article/youtube-creator-github-sentry-github-copilot-let-agents-find-and-fix-your-errors)
+- [💫 Bonzai Creator - Dada | Continuum⍟](https://blog.darkwood.com/article/bonzai-creator-dada-continuum)
 <!-- BLOG-POST-LIST:END -->
 
 ## Links
