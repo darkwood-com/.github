@@ -26,11 +26,11 @@ Keys skills :
 ## Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [💫 Hacker News Creator - Breaking Claude Code Opus 5 Auto Mode](https://blog.darkwood.com/article/hacker-news-creator-breaking-claude-code-opus-5-auto-mode)
+- [💫 Reddit Creator - r/opensource: I’m building an open-source docx document editor with its own Canvas rendering engine](https://blog.darkwood.com/article/reddit-creator-r-opensource-i-m-building-an-open-source-docx-document-editor-with-its-own-canvas-rendering-engine)
+- [💫 arXiv Creator - stat.ML: Learning a Size-Weight Frontier for Synthetic-Augmented Inference](https://blog.darkwood.com/article/arxiv-creator-stat-ml-learning-a-size-weight-frontier-for-synthetic-augmented-inference)
+- [🤖 Darkwood Watch - 2026-08-31](https://blog.darkwood.com/article/darkwood-watch-2026-08-31)
 - [💫 Hacker News Creator - Hy4 preview](https://blog.darkwood.com/article/hacker-news-creator-hy4-preview)
-- [🔨 I Built a C Compiler in PHP That Can Compile SQLite](https://blog.darkwood.com/article/i-built-a-c-compiler-in-php-that-can-compile-sqlite)
-- [💫 Reddit Creator - r/opensource: Beagle: Now with actually readable README.md (Ai built, heads up)](https://blog.darkwood.com/article/reddit-creator-r-opensource-beagle-now-with-actually-readable-readme-md-ai-built-heads-up)
-- [🤖 Darkwood Watch - 2026-08-30](https://blog.darkwood.com/article/darkwood-watch-2026-08-30)
-- [💫 Bluesky Creator - @martinfowler.com: Fragments on AI Whistleblowers](https://blog.darkwood.com/article/bluesky-creator-martinfowler-com-fragments-on-ai-whistleblowers)
 <!-- BLOG-POST-LIST:END -->
 
 ## Links
