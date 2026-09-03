@@ -26,11 +26,11 @@ Keys skills :
 ## Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Darkwood v8.1.6 released](https://blog.darkwood.com/article/darkwood-v8-1-6-released)
-- [💫 Bluesky Creator - @aurelievache: Two Accessibility Engineering Roles at Apple](https://blog.darkwood.com/article/bluesky-creator-aurelievache-two-accessibility-engineering-roles-at-apple)
-- [💫 Hacker News Creator - RavynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source](https://blog.darkwood.com/article/hacker-news-creator-ravynos-pre-alpha-open-source-os-based-on-darwin-freebsd-apple-open-source)
-- [💫 Reddit Creator - r/opensource: mloda 0.11: turned a bare "not found" resolver error into a full elimination trail](https://blog.darkwood.com/article/reddit-creator-r-opensource-mloda-0-11-turned-a-bare-not-found-resolver-error-into-a-full-elimination-trail)
-- [💫 arXiv Creator - cs.LG: Constant Individual Regret in General Games](https://blog.darkwood.com/article/arxiv-creator-cs-lg-constant-individual-regret-in-general-games)
+- [💫 Bluesky Creator - @martinfowler.com: Maybe We Shouldn't Be Reviewing All This Code](https://blog.darkwood.com/article/bluesky-creator-martinfowler-com-maybe-we-shouldn-t-be-reviewing-all-this-code)
+- [💫 Hacker News Creator - Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s](https://blog.darkwood.com/article/hacker-news-creator-running-104gb-qwen3-8-flash-next-on-48gb-mac-with-at-12-tok-s)
+- [💫 Reddit Creator - r/opensource: MIR with AudioMuse-AI-SAE [P]](https://blog.darkwood.com/article/reddit-creator-r-opensource-mir-with-audiomuse-ai-sae-p)
+- [💫 arXiv Creator - stat.ML: Pointwise Majorization for sub-Weibull and Mixed Tail Processes with Applications in Quadratic Chaos and Ergodic Diffusions](https://blog.darkwood.com/article/arxiv-creator-stat-ml-pointwise-majorization-for-sub-weibull-and-mixed-tail-processes-with-applications-in-quadratic-chaos-and-ergodic-diffusions)
+- [💫 GitHub Creator - composer: composer/composer 2.2.30](https://blog.darkwood.com/article/github-creator-composer-composer-composer-2-2-30)
 <!-- BLOG-POST-LIST:END -->
 
 ## Links
