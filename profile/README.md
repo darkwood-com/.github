@@ -26,11 +26,11 @@ Keys skills :
 ## Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [💫 Bonzai Creator - Nathalie](https://blog.darkwood.com/article/bonzai-creator-nathalie-3)
 - [🤖 Darkwood Watch - 2026-10-21](https://blog.darkwood.com/article/darkwood-watch-2026-10-21)
 - [💫 Bonzai Creator - Niokoz](https://blog.darkwood.com/article/bonzai-creator-niokoz-5)
 - [🤖 Darkwood Watch - 2026-10-20](https://blog.darkwood.com/article/darkwood-watch-2026-10-20)
 - [🔀 Darkwaar33 - Seedwake: Asynchronous Multiplayer Without a Server](https://blog.darkwood.com/article/darkwaar33-seedwake-asynchronous-multiplayer-without-a-server-1)
-- [💫 Bluesky Creator - @alexdaubois: Insights on PHP Security Team](https://blog.darkwood.com/article/bluesky-creator-alexdaubois-insights-on-php-security-team)
 <!-- BLOG-POST-LIST:END -->
 
 ## Links
