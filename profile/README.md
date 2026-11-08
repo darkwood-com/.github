@@ -26,11 +26,11 @@ Keys skills :
 ## Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [🤖 Darkwood Watch - 2026-11-08](https://blog.darkwood.com/article/darkwood-watch-2026-11-08)
+- [💫 Hacker News Creator - Libghostty 1.0](https://blog.darkwood.com/article/hacker-news-creator-libghostty-1-0)
+- [💫 Reddit Creator - r/php: Two Critical PHP RCE Vulnerabilities (CVE-2026-109618 & CVE-2026-109619) — What PHP Developers Need to Know](https://blog.darkwood.com/article/reddit-creator-r-php-two-critical-php-rce-vulnerabilities-cve-2026-109618-cve-2026-109619-what-php-developers-need-to-know)
+- [💫 GitHub Creator - api-platform: api-platform/core: v5.0.6](https://blog.darkwood.com/article/github-creator-api-platform-api-platform-core-v5-0-6)
 - [🤖 Darkwood Watch - 2026-11-07](https://blog.darkwood.com/article/darkwood-watch-2026-11-07)
-- [🎧 DJ Matyo Selection - 2026-11-06](https://blog.darkwood.com/article/dj-matyo-selection-2026-11-06)
-- [📈 Darkwood Investment Watch - 2026-11-06](https://blog.darkwood.com/article/darkwood-investment-watch-2026-11-06)
-- [💫 Bluesky Creator - @jerome.tamarelle.net: Boost Projects with GitHub Stars](https://blog.darkwood.com/article/bluesky-creator-jerome-tamarelle-net-boost-projects-with-github-stars)
-- [💫 Hacker News Creator - MCP Explained](https://blog.darkwood.com/article/hacker-news-creator-mcp-explained)
 <!-- BLOG-POST-LIST:END -->
 
 ## Links
