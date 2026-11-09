@@ -26,11 +26,11 @@ Keys skills :
 ## Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [🤖 Darkwood Watch - 2026-11-09](https://blog.darkwood.com/article/darkwood-watch-2026-11-09)
+- [🧠 Memory: What Makes Continuation Possible](https://blog.darkwood.com/article/memory-what-makes-continuation-possible)
+- [💫 Hacker News Creator - The end of Microsoft Research's AI Frontiers group](https://blog.darkwood.com/article/hacker-news-creator-the-end-of-microsoft-research-s-ai-frontiers-group)
+- [💫 Reddit Creator - r/php: Introducing FlockPHP v1.0!](https://blog.darkwood.com/article/reddit-creator-r-php-introducing-flockphp-v1-0)
 - [🤖 Darkwood Watch - 2026-11-08](https://blog.darkwood.com/article/darkwood-watch-2026-11-08)
-- [💫 Hacker News Creator - Libghostty 1.0](https://blog.darkwood.com/article/hacker-news-creator-libghostty-1-0)
-- [💫 Reddit Creator - r/php: Two Critical PHP RCE Vulnerabilities (CVE-2026-109618 & CVE-2026-109619) — What PHP Developers Need to Know](https://blog.darkwood.com/article/reddit-creator-r-php-two-critical-php-rce-vulnerabilities-cve-2026-109618-cve-2026-109619-what-php-developers-need-to-know)
-- [💫 GitHub Creator - api-platform: api-platform/core: v5.0.6](https://blog.darkwood.com/article/github-creator-api-platform-api-platform-core-v5-0-6)
-- [🤖 Darkwood Watch - 2026-11-07](https://blog.darkwood.com/article/darkwood-watch-2026-11-07)
 <!-- BLOG-POST-LIST:END -->
 
 ## Links
